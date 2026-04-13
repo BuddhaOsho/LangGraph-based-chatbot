@@ -15,6 +15,13 @@ The project showcases explicit control over conversation flow using a directed g
 - Demonstrates controlled and predictable LLM orchestration
 
 ---
+Tech Stack
+
+Language: Python
+LLM: OpenAI (via LangChain)
+Framework: LangGraph
+State Management: TypedDict + message annotations
+Environment Management: python‑dotenv
 
 ## 🧩 Architecture Overview
 
