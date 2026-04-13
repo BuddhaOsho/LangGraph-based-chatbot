@@ -1,0 +1,4 @@
+├── main.py              # LangGraph workflow and chatbot logic
+├── .env                 # API keys (not committed)
+├── requirements.txt     # Project dependencies
+└── README.md
